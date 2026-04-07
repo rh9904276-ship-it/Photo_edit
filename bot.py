@@ -4,7 +4,7 @@ import requests
 from PIL import Image, ImageEnhance
 
 BOT_TOKEN = "8734269414:AAGnGrAxIZZnje4_5O6d2mN9iaM_m25xlDE"
-CHANNEL_USERNAME = "@editsani9"
+CHANNEL_USERNAME = "@saniedit9"
 API_KEY = "2425ee33-841b-4853-bfdb-122b20d8d6d7"
 
 user_mode = {}
